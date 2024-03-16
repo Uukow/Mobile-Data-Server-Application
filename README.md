@@ -2,9 +2,7 @@
 <div align='center'>
 
 <h1>Mobile data Server Application</h1>
-<p>our company, where we specialize in simplifying the process of exchanging dollars for Internet data. In addition to this service, we also provide the convenience of converting your currency into EVCPlus or Edahab prepaid cards. These cards empower you to seamlessly connect with your community through the telecommunications infrastructure of the country, including networks such as Hormuud, Somnet, and Somnet.</p>
-
-<h4> <span> · </span> <a href="https://github.com/uukow/Mobile data server Server/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/uukow/Mobile data server Server/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/uukow/Mobile data server Server/issues"> Request Feature </a> </h4>
+<p>our Application where we specialize in simplifying the process of exchanging dollars for Internet data. In addition to this service, we also provide the convenience of converting your currency into EVCPlus or Edahab prepaid cards. These cards empower you to seamlessly connect with your community through the telecommunications infrastructure of the country, including networks such as Hormuud, Somnet, and Somnet.</p>
 
 
 </div>
@@ -18,8 +16,7 @@
 
 ## :star2: About the Project
 
-### :camera: Screenshots
-<div align="center"> <a href=""><img src="https://drive.google.com/drive/folders/1I-dfMiPWgcIvUQYUWuVKlsCinEBzaf_g?usp=drive_link" alt='image' width='800'/></a> </div>
+
 
 
 ### :space_invader: Tech Stack
@@ -74,8 +71,7 @@ Abdulkadir Uukow - [@twitter_handle](https://twitter.com/abdulkadiruukow) - Abdu
 Project Link: [https://github.com/Uukow/Mobile-Data-Server-Application](https://github.com/Uukow/Mobile-Data-Server-Application)
 
 
-## :mobile: ScreenShots
-
+### :camera: Screenshots
 
 ![Screenshot 1](screenshots/1.jpg)
 ![Screenshot 2](screenshots/2.jpg)
